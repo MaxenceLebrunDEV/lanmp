@@ -1,6 +1,6 @@
 ## 一 Introduction
 
-Contieny    `Apache`+ `MySQL` + `PHP`+ `Composer` + `ClientX`
+Contient    `Apache`+ `MySQL` + `PHP`+ `Composer` + `ClientX`
 
 
 ## 一 Installation
