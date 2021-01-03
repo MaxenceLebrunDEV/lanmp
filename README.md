@@ -9,4 +9,4 @@ Contieny    `Apache`+ `MySQL` + `PHP`+ `Composer` + `ClientX`
 1.	./install-cms.sh
 
 > Email: [lebrun.maxence64@gmail.com] 
-> Site: [https://ryzeheberg.fr, https://devscodes.vom]
+> Site: [https://ryzeheberg.fr, https://devscodes.com]
