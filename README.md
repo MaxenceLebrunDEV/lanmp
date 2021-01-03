@@ -8,7 +8,5 @@ Contieny    `Apache`+ `MySQL` + `PHP`+ `Composer` + `ClientX`
 1.	./install-dependency.sh
 1.	./install-cms.sh
 
-> Email: [ ]( )  
-   
-> Twitter：[@wang_yan](https://twitter.com/wang_yan)  
-> Home Page: [ ]( )  
+> Email: [lebrun.maxence64@gmail.com] 
+> Site: [https://ryzeheberg.fr, https://devscodes.vom]
